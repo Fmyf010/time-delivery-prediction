@@ -16,6 +16,8 @@ import shap
 import warnings
 warnings.simplefilter(action='ignore', category=FutureWarning)
 
+pip install -r requirements.txt
+
 # ==============================
 # STREAMLIT APP
 # ==============================
